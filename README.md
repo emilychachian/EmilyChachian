@@ -1,5 +1,5 @@
 <h1>Hi, I'm Emily!</h1>
-<h3 align="center">A passionate frontend developer from Brazil, cybersec enthusiast who is always learning something new</h3>
+<h3 align="center">A passionate front-end developer from Brazil, cybersec enthusiast who is always learning something new</h3>
 
 - 🔭 I’m currently working on **an open-source application that connects recruiters and junior candidates. We currently have a HR professional, a UX designer, a few back-end and front-end developers**
 
