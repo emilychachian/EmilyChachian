@@ -1,9 +1,9 @@
 <h1>Hi, I'm Emily!</h1>
 <h3 align="center">A passionate front-end developer from Brazil, cybersec enthusiast who is always learning something new</h3>
 
-- 🔭 I’m currently working on **an open-source application that connects recruiters and junior candidates. We currently have a HR professional, a UX designer, a few back-end and front-end developers**
+- 🔭 I’m currently working at **Accenture as a ServicePortal developer**
 
-- 🌱 I’m currently learning **React and Cybersecurity**
+- 🌱 I’m currently learning **ServiceNow and AngularJS**
 
 - 💬 Ask me about **JavaScript, React, HTML and CSS**
 
