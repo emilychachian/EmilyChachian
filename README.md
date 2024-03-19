@@ -1,9 +1,9 @@
 <h1>Hi, I'm Emily!</h1>
-<h3 align="center">A passionate front-end developer from Brazil, cybersec enthusiast who is always learning something new</h3>
+<h3 align="center">A passionate developer from Brazil, cybersec enthusiast who is always learning something new</h3>
 
-- 🔭 I’m currently working at **Accenture as a ServicePortal developer**
+- 🔭 I’m currently working at **InComm Payments as a ServiceNow engineer**
 
-- 🌱 I’m currently learning **ServiceNow and AngularJS**
+- 🌱 I’m currently learning **ServiceNow and integrations**
 
 - 💬 Ask me about **JavaScript, React, HTML and CSS**
 
